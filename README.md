@@ -13,4 +13,6 @@ I connected the pizza sales SQL database to Power BI and built an interactive da
 
 These visuals help stakeholders quickly identify sales trends, popular products, and peak ordering times to drive data-informed decisions.
 
-_Screenshots of the dashboard are included for reference._
+_Screenshots of the dashboard are included for reference._![Screenshot 2025-05-16 184230](https://github.com/user-attachments/assets/d8943b5c-2c43-48a6-8140-5f73a4c4d7ed)
+![Screenshot 2025-05-16 184145](https://github.com/user-attachments/assets/08c10447-a0f2-40b7-ba51-d2a23e70def4)
+
